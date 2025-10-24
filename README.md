@@ -12,6 +12,7 @@
 - 💬 Ask me about **MERN**
 
 - 📫 How to reach me **ghanghasaryan207@gmail.com**
+<img width="1001" height="631" alt="image" src="https://github.com/user-attachments/assets/a52d351f-bb43-4e92-98ee-a79d8a663129" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
